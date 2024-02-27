@@ -17,7 +17,7 @@ const Bag = () => {
 				    	<div>Size: {el.size}</div>
 				    	<div>Quantity: 1</div>
 			    	    </span>
-			    	<div>${el.price}</div>	
+			    	<div>${el.price}</div>aaaa	
 		    	</div>
 	    	})}
 	    </div>    
